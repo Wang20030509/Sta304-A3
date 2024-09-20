@@ -1,10 +1,10 @@
 #### Preamble ####
-# Purpose: Simulates 
+# Purpose: Simulate data 
 # Author: Doran Wang
 # Date: 19 September 2024
-# Contact: doran.wang@utoronto.ca 
+# Contact: doran.wang@mail.utoronto.ca 
 # License: MIT
-# Pre-requisites: 
+# Pre-requisites: None
 
 
 
@@ -34,6 +34,6 @@ data <-
     number_of_marriage = rpois(n = number_of_dataes, lambda = 15)
   )
 
-write_csv(data, file = "~/STA304/A3/simulated.csv")
+write_csv(data, file = "C:/Users/User/Documents/Sta304-A3/data/raw_data/simulated.csv")
 
 
