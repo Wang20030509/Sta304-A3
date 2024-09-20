@@ -6,8 +6,6 @@
 # License: MIT
 # Pre-requisites: None
 
-
-
 #### Workspace setup ####
 library(tidyverse)
 library(tibble)

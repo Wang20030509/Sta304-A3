@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Week 3 folder
+=======
+# week 3 folder
+>>>>>>> f93e0239b7522a8c051ef3016f4bb7010b974648
 
 ## Overview
 
